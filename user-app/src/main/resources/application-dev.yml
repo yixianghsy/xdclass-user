@@ -47,7 +47,7 @@ dubbo:
   protocol:
     name: dubbo
     # 协议端口(-1代表端口随机,用于单机环境启动多个实例)
-    port: -1
+    port: 20880
     #多网卡环境下指定IP
     #    host: 192.168.31.132
     # 协议访问log
